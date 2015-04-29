@@ -72,6 +72,8 @@ echo "<br><br>";
 
 echo "<br><br>";
 
+//test
+
 $buf = httpRequest("127.0.0.1",
 	9085, "GET", "/peers/height", $ar);  
 	
